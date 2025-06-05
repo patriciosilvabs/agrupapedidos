@@ -1,1 +1,1 @@
-<!-- commit for firebase deploy -->
+<!-- Commit para acionar build do Firebase -->
